@@ -18,7 +18,7 @@ public class Application {
     public static void main(String[] args) {
 
         /* 필기
-         *  JdbcTransactionFactory : 수동 커밋
+         *  JdbcTransactionFactory : 수동 커밋.
          *  ManagedTransactionFactory : 자동 커밋
          * -------------------------------------
          *  PooledDataSource : ConnectionPool 사용
